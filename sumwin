@@ -1,0 +1,6 @@
+# This is to add 
+
+set a=34
+set b=65
+set /a sum=%a%+%b%
+echo Sum of %a% and %b% is %sum%
